@@ -1,0 +1,53 @@
+/* 
+Siolon's Global Reset
+http://www.siolon.com/blog/browser-reset-css/
+CSSresetr.com
+*/
+* {  
+	vertical-align: baseline;  
+	font-family: inherit;  
+	font-style: inherit;  
+	font-size: 100%;  
+	border: none;  
+	padding: 0;  
+	margin: 0;  
+	}  
+body {  
+	padding: 5px;  
+	}  
+h1, h2, h3, h4, h5, h6, p, pre, blockquote, form, ul, ol, dl {  
+	margin: 20px 0;  
+	}  
+li, dd, blockquote {  
+	margin-left: 40px;  
+	}  
+table {  
+	border-collapse: collapse;  
+	border-spacing: 0;  
+	}
+
+/* Web Page -----------------------------------------------------------------*/
+body{
+	max-width: 960px;
+	font-size: 100%;
+	line-height: 1.2;
+	margin: 0;
+	padding: 0;
+}
+
+li{
+	font-family: 'Tenor Sans', sans-serif;
+	font-size: 1.25em; /* 20px */
+	line-height: 1.2;
+	margin-bottom: 0;
+}
+
+p{
+	font-family: 'Tenor Sans', sans-serif;
+	font-size: 1.25em; /* 20px */
+	margin: 0 0 1.041666666% 0;
+}
+
+h1, h2, h3, h4, h5{
+	font-family: 'Tinos', serif;
+}
